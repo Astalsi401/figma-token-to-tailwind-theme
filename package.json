@@ -1,5 +1,6 @@
 {
-  "name": "figma-tokens-to-tw-theme",
+  "name": "figma-token-to-tailwind-theme",
+  "homepage": "https://astalsi401.github.io/figma-token-to-tailwind-theme",
   "private": true,
   "version": "0.0.0",
   "type": "module",
